@@ -1,0 +1,4 @@
+MIDI
+====
+
+MIDI sequencer exercise
